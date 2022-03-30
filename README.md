@@ -12,7 +12,7 @@ Thanks for checking out this front-end coding challenge.
 
 ## Result
 
-![Design Result](./screenshot.jpg)
+![Design Result](./screenshot.png)
 
 ## The challenge
 
